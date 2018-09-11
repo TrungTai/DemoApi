@@ -7,8 +7,8 @@
   ],
   "profile": { "name": "typicode" },
   "objects": [
-    {"id": 1, "owner": "Tom", "address": "Address 1", "area": 100, "price": 1000},
-    {"id": 2, "owner": "John", "address": "Address 2", "area": 200, "price": 2000},
-    {"id": 3, "owner": "Alex", "address": "Address 3", "area": 300, "price": 3000}
+    {"objectId": 1, "owner": "Tom", "address": "Address 1", "area": 100, "price": 1000, "mediaId": "", "url": ""},
+    {"objectId": 2, "owner": "John", "address": "Address 2", "area": 200, "price": 2000, "mediaId": "", "url": ""},
+    {"objectId": 3, "owner": "Alex", "address": "Address 3", "area": 300, "price": 3000, "mediaId": "", "url": ""}
   ]
 }
