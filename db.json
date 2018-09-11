@@ -1,0 +1,14 @@
+{
+  "posts": [
+    { "id": 1, "title": "json-server", "author": "typicode" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 }
+  ],
+  "profile": { "name": "typicode" },
+  "objects": [
+    {"objectId": 1, "owner": "Tom", "address": "Address 1", "area": 100, "price": 1000},
+    {"objectId": 2, "owner": "John", "address": "Address 2", "area": 200, "price": 2000},
+    {"objectId": 3, "owner": "Alex", "address": "Address 3", "area": 300, "price": 3000}
+  ]
+}
